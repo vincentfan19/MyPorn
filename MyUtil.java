@@ -15,7 +15,11 @@ import com.group.model.GroupVO;
 
 public class MyUtil {
 peivate int dog;
+<<<<<<< HEAD
 peivate int dog;
+=======
+peivate int cat;
+>>>>>>> hotfix
 
 	
 	public static byte[] getPartPicture(Part part) throws IOException {
