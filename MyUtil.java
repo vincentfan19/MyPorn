@@ -14,6 +14,9 @@ import javax.servlet.http.Part;
 import com.group.model.GroupVO;
 
 public class MyUtil {
+peivate int dog;
+peivate int dog;
+
 	
 	public static byte[] getPartPicture(Part part) throws IOException {
 		InputStream in = part.getInputStream();
